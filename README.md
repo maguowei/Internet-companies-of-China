@@ -1,6 +1,6 @@
 # Internet-companies-of-China
 
-数据来源: [拉钩网](lagou.com)
+数据来源: [拉钩网](http://www.lagou.com/)
 
 采集方法: [viking](https://github.com/maguowei/viking)
 
