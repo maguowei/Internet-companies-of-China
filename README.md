@@ -10,8 +10,6 @@ mongoexport -d lg -c company --type=csv --fieldFile fields.txt -o company.csv
 
 * 数据来源: [拉勾网](http://www.lagou.com/)
 
-* 采集方法: [viking](https://github.com/maguowei/viking)
-
 * 采集时间: 2016-02-26
 
 * 数据格式:
